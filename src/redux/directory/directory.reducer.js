@@ -2,19 +2,19 @@ const INITIAL_STATE = {
   sections: [
     {
       title: 'hats',
-      imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+      imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
       id: 1,
       linkUrl: 'shop/hats'
     },
     {
       title: 'jackets',
-      imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+      imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
       id: 2,
       linkUrl: 'shop/jackets'
     },
     {
       title: 'sneakers',
-      imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+      imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
       id: 3,
       linkUrl: 'shop/sneakers'
     },
@@ -27,7 +27,7 @@ const INITIAL_STATE = {
     },
     {
       title: 'mens',
-      imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+      imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
       size: 'large',
       id: 5,
       linkUrl: 'shop/mens'
